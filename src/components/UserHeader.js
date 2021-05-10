@@ -9,3 +9,5 @@ class UserHeader extends React.Component {
         )
     }
 }
+
+export default UserHeader
